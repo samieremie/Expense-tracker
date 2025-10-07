@@ -1,0 +1,23 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "CLI tool to track expenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samieremie/Expense-tracker.git"
+  },
+  "type": "module",
+  "author": "Samuel Ieremie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samieremie/Expense-tracker/issues"
+  },
+  "homepage": "https://github.com/samieremie/Expense-tracker#readme",
+  "bin": {
+    "expense-tracker": "index.js"
+  }
+}
